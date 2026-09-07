@@ -11,6 +11,7 @@ S.O Cru. Programer in Japan.
 | Repository | Description | Language |
 | --- | --- | --- |
 | [ebiten-particle-simulator](https://github.com/matcha137/ebiten-particle-simulator) | Particle Accelerator Simulator | Go |
+| [python-playground](https://github.com/matcha137/python-playground) | Streamlit App | Python |
 
 ## Others
 | Application | Description | Language |
