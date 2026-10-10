@@ -1,6 +1,6 @@
 ## About Me
 
-S.O Cru. Programer in Japan.
+S.O Cru. Programmer in Japan.
 
 ## Skill
 
@@ -19,4 +19,4 @@ S.O Cru. Programer in Japan.
 
 | Application | Description | Language |
 | --- | --- | --- |
-| [TOKYO発進](https://urbs-navigation.chori39.workers.dev/) | [東京都オープンデータハッカソン2026提出作品](https://odhackathon.metro.tokyo.lg.jp/collection/6632781930318621640/?year=2026) | JavaScript |
+| TOKYO発進~Urbs Navigation~ | [東京都オープンデータハッカソン2026提出作品](https://odhackathon.metro.tokyo.lg.jp/collection/6632781930318621640/?year=2026) | JavaScript |
